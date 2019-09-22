@@ -1,0 +1,12 @@
+Question A1: WAP to find out the square of a given number.
+Question A2: WAP to input a number and print its cube.		
+Question A3: WAP to input radius and calculate the area and circumference of a circle.
+A4: WAP to input employee code, name and basic salary of an employee and calculate the following values:
+		HRA					40 % of basic salary
+		DA					10 % of basic salary
+		CCA					5 % of basic salary
+		GS					Basic + HRA + DA + CCA
+		PF					10 % of GS
+		IT					10 % of GS
+		NS					GS – (PF + IT)
+Display all the values.
