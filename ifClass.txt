@@ -1,0 +1,56 @@
+conditional/logical  function 
+
+> greater then
+< less then
+>= greater then equal to
+<= less then equal to
+= equal to
+
+
+
+40> 10,true,false /simple condition
+40>10,40>50,true,false,false
+
+
+=if(40>20     ,true               ,false)     T			  F
+
+
+=IF(E4=0      ,"pass"            ,IF(E4>1   ,"fail"    ,"comp")    )
+
+=IF(COUNTIF(B2:D2,"<30")=0      ,"pass",       "Fail")
+
+
+countif
+sumif
+sumifs
+if
+if(if)
+
+
+
+Question B8: WAP to input the salary of a person and calculate the hra and da according to the following conditions:
+		Salary 				HRA		DA
+ 		5000-10000			10%		5%	
+		10001-15000			15%		8%
+		
+		
+Question B9: WAP to input marks in five subjects of a student and calculate the division according to the following conditions:
+		Percentage				Division
+		>=60					First
+		50-59					Second
+		40-49					Third
+		<40					Fail
+		
+Question B10: An electricity board charges according to the following rates:
+		For the first 100 units -   40 paisa per unit.
+		For the next 200 units -   50 paisa per unit.
+		beyond 300 units -  60 paisa per unit.
+All users are charged meter charges also, which are Rs. 50/-
+
+Question B11: WAP to input monthly salary from the user and calculate the income tax according to the following rules:
+		Salary				income tax
+			>=9000			40% of the salary
+		7500-8999			30% of the salary
+		<7500				20% of the salary
+
+
